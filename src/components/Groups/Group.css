@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+.show{
+   margin: 60px 0px 0px 50px;
+}
+
+.showGroup{
+    /* margin: 90px 4px 13px 120px; */
+    width: 85%;
+}
+.card_head{
+    display: flex;
+    color: black;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding:8px 18px 8px 15px */
+}
+.showGroupName{
+    /* margin: 4px 4px 4px 120px; */
+    width: 85%;
+    min-height: 40vh;
+    z-index: 1;
+    /* padding: 10px; */
+}
+.createHead{
+    /* margin: 90px 4px 13px 120px; */
+    width: 95%;
+}
+.addGroup{
+    margin: 60px 0px 0px 0px;
+}
+.addCard{
+    margin: 10px 0px 0px 0px;
+    width: 95% !important;
+    height: 25vh;
+    align-items: center;
+}
+.card_num{
+    margin: 10px;
+    border-radius: 6px;
+    background-color: #f4f6f9;
+}
+.card_head{
+    
+    color: black;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:8px 18px 8px 15px
+}
+.groupInput{
+    color: black;
+    background: none;
+    border: 2px solid black;
+    /* width: 117%; */
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 7px;
+    margin: 20px 0px ;
+    outline: none;
+}
+/* .btn{
+    background-color: #6dfd7ffa;
+    color: black;
+    padding: 6px 22px;
+    margin-top: 10px;
+    margin-left: 80px;
+} */
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black;
+    opacity: 1; /* Firefox */
+  }

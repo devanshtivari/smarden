@@ -1,0 +1,10 @@
+.contents{
+    display: flex;
+    /* justify-content: space-between; */
+    font-size: larger;
+    padding: 15px 20px;
+    font-weight: 500;
+}
+.con{
+    width:16vw;
+}
